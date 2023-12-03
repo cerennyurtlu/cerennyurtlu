@@ -12,9 +12,9 @@
 
 <h3 align="left">💫 About me:</h3>
 
-~ 🔭 I’m currently working on Flutter
+~ 🔭 I’m currently working on -
 
-~ 🌱 I’m currently learning Java & Kotlin
+~ 🌱 I’m currently learning Flutter & Kotlin
 
 ~ 👯 I’m looking to collaborate on Mobile Developer Journey
 
